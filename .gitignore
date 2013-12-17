@@ -1,0 +1,7 @@
+node_modules
+bower_components
+.c9revisions
+components
+*~
+coverage
+.DS_STORE

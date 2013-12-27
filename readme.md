@@ -5,9 +5,9 @@
 
 `npm install lie-iter`
 
-`var cast = require('lie-iter');`
+`var iter = require('lie-iter');`
 
-###cast
+###iter
 
 ```javascript
 iter(array of values or promises (or promise for such)[, function])

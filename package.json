@@ -1,6 +1,6 @@
 {
   "name": "lie-iter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "iterate over some lies",
   "main": "lib/iter.js",
   "scripts": {
